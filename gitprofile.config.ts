@@ -51,7 +51,7 @@ const CONFIG = {
       ],
     },
   },
-  seo: { title: 'Portfolio of Ariful Alam', description: '', imageURL: '' },
+m  seo: { title: 'Portfolio of Jeongmin', description: '', imageURL: '' },
   social: {
     linkedin: 'ariful-alam',
     x: 'arif_szn',
