@@ -111,16 +111,16 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'SKKU, Department of Applied Artificial Intelligence',
+      degree: 'Bachelor Degree',
+      from: '2024',
+      to: '',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'DLSL',
+      degree: 'Highschool',
+      from: '2017',
+      to: '2023',
     },
   ],
   publications: [
