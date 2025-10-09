@@ -155,7 +155,7 @@ const CONFIG = {
   // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: { id: '', snippetVersion: 6 },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'dark', //'lofi'
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
@@ -170,8 +170,9 @@ const CONFIG = {
 
     // Available themes. To remove any theme, exclude from here.
     themes: [
+      'lofi',
       'light',
-      'dark',
+      // 'dark',
       'cupcake',
       'bumblebee',
       'emerald',
